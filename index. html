@@ -58,10 +58,10 @@
 <div class="success-toast" id="successToast">✅ Message sent successfully!</div>
 <div class="main-wrapper">
 <div class="card" id="anniversaryCard">
-<div class="badge">🎊 Server Milestone 🎊</div>
+<div class="badge">🎉 Server Milestone 🎉</div>
 <div class="icon-row"><span class="cake-icon">🎂</span><span style="font-size:2.6rem;">✨</span><span class="cake-icon" style="animation-delay:.3s;">🎉</span></div>
 <h1>Happy <span class="accent-text">1 Year</span><br>Anniversary!</h1>
-<p class="subtitle">🥳 365 days of awesome memories 🥳</p>
+<p class="subtitle">😼 365 days of awesome memories 🥳</p>
 <div class="server-name-box"><div class="discord-logo">X</div><div class="server-label"><span>Xychen Server</span></div></div>
 <div class="stats-row"><div class="stat-item"><div class="stat-number gold">365</div><div class="stat-label">Days</div></div><div class="stat-item"><div class="stat-number">∞</div><div class="stat-label">Memories</div></div><div class="stat-item"><div class="stat-number">❤️</div><div class="stat-label">Community</div></div></div>
 <p class="message"><strong>Thank you</strong> for being part of this incredible journey.<br>From the very first message to where we are today —<br>this server wouldn't be the same without <strong>YOU</strong>. 💙</p>
